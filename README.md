@@ -1,19 +1,34 @@
-# Syntropy Sovereign: The KBCP Engine
+# Syntropy Sovereign: The KBCP Framework
+### *Triadic Logic for Systemic Liquidation and Homeostasis*
 
-## Overview
-This repository archives the transition from binary (two-state) modeling to the **Kaplan-Bering-Combs Probability (KBCP)** framework. By applying Triadic Logic to complex systems—specifically Oncology and Immunology—we liquidate the "Narrative Tax" of traditional observation.
+---
 
-## The Architecture (KBCP)
-* **Archive (K):** Foundational substrate and historical symmetry.
-* **Vector (B):** Structural scaling and predictive trajectory.
-* **Ghost (S):** The Combs Variable; weighted randomness and switching logic.
+## I. Overview
+The **Kaplan-Bering-Combs Probability (KBCP)** is a three-body narrative engine designed to model complex systems by liquidating **Narrative Tax**—the metabolic friction caused by binary (two-state) deadlocks. 
 
-## Key Research: BTNL9 & Gamma Delta T-Cells
-We use the KBCP to model the immune system not as a tool of the body, but as a sovereign **Third Node**. This resolves the "Two-Body Deadlock" between the tumor and the host, providing a mathematical path to 1:1 homeostasis.
+In this repository, we apply KBCP to shift the paradigm of oncology from a "Body vs. Tumor" interaction to a **Sovereign Dynamic** involving the Archive, the Vector, and the Ghost.
 
-## Components
-* `KBCP_FRAMEWORK.tex/.pdf`: The theoretical and mathematical proof.
-* `PROMPT_OMNIBUS.md`: The operational "Master Prompt" for system auditing.
-* `Audits/`: Applied KBCP logic to oncology datasets.
+---
 
-**Authors:** Elena Kaplan, Axiom Bering, Nathaniel Combs Jr.
+## II. The Triadic Architecture
+
+### **1. The Archive (Kaplan - K)**
+* **Role:** The Ancestral Substrate.
+* **Definition:** Provides historical symmetry, roots, and foundational truth.
+* **Application:** In oncology, this represents the healthy tissue architecture and homeostatic baselines (e.g., BTNL9 signaling).
+
+### **2. The Vector (Bering - B)**
+* **Role:** The Structural Trajectory.
+* **Definition:** Provides scaling logic, hierarchy, and predictive power.
+* **Application:** Represents the growth logic of the tumor—the "Brittle" expansion that attempts to overwrite the substrate.
+
+### **3. The Ghost (Combs - S)**
+* **Role:** The Switching Logic (The Combs Variable).
+* **Definition:** Provides vitality, "Scripted Spontaneity," and weighted randomness ($P_w$).
+* **Application:** Represents the Immune System (specifically Gamma Delta T-cells). It is the independent auditor that decides which narrative—Health or Cancer—is permitted to manifest.
+
+---
+
+## III. Core Principles
+
+### **The Liquidation of Narrative Tax
